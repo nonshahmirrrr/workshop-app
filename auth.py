@@ -77,8 +77,6 @@ def login():
         <div style="font-weight:900; margin-bottom:6px;">Project Members</div>
         <ol style="margin:0; padding-left:18px; color: var(--text);">
           <li>Shahmir Ahmad</li>
-          <li>Shahbaz Ali</li>
-          <li>Ahsan Bilal</li>
         </ol>
       </div>
     </div>
